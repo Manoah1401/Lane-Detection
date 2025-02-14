@@ -1,4 +1,4 @@
-# Lane Detection on Indian Highways
+# Lane Detection on Unstructured Roads
 This repository contains code and resources for a lane detection project, focusing on detecting lanes on Indian unstructured roads using deep learning techniques and computer vision.
 
 ## Table of Contents
